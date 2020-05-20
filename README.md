@@ -11,7 +11,6 @@ OpenSea Storefront: https://rinkeby.opensea.io/assets/real-estate-token-v8
 
 Contract ABI will be found here: `./eth-contracts/build/contracts/*.json`
 
-![Storefront](./storefront.png?raw=true "Storefront")
 ##### Steps--:
 ### Installation
 
